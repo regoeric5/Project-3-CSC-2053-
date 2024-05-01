@@ -1,5 +1,7 @@
 # Project-3-CSC-2053-
 
-Run
+## Setup Project
+```
 npm install
 npm run dev
+```
